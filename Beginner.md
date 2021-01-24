@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
-1. [Disposição das cartas](#card-layout)
-1. [Os Básicos](#the-basics)
-1. [Dicas de Jogar & Dicas de Salvar](#play-clues--save-clues)
-1. [Os Três Princípios Básicos](#the-three-main-principles)
-1. [Outros Tópicos](#miscellaneous)
-1. [Jogadas Especiais](#special-moves)
-1. [Como Encontrar Jogos](#how-to-join-games)
+1. [Disposição das cartas](#disposição-das-cartas)
+1. [Os Básicos](#os-básicos)
+1. [Dicas de Jogar & Dicas de Salvar](#dicas-de-jogar--dicas-de-salvar)
+1. [Os Três Princípios Básicos](#os-três-princípios-básicos)
+1. [Outros Tópicos](#outros-tópicos)
+1. [Jogadas Especiais](#jogadas-especiais)
+1. [Como Encontrar Jogos](#como-encontrar-jogos)
 
 <br />
 
@@ -331,34 +331,34 @@ Neste guia, haverão algumas imagens para ilustrar os conceitos introduzidos. Aq
 
 <br />
 
-### The Finesse
+### A Finesse
 
 <img src="img/beginner/finesse.png" height="300" />
 
-- In the above screenshot:
-  - Alice's hand is blacked out because it does not matter.
-  - Bob has no clued cards in his hand.
-  - Alice clues a red to Cathy, which touches a red 4. This must be a *Play Clue* on the red 4.
-  - Bob sees that red 4 is currently unplayable. Thus, assuming Alice is not making a mistake, this clue implies that someone has the red 3...
-  - Bob does not see a red 3 clued in anyone else's hand. So, Alice must be promising him that his has the red 3.
-  - But where is it? Bob knows that this is the *Finesse* convention, and he is promised that his left-most unclued card is the red 3.
-  - Bob blind-plays his slot 1 card, and it is the red 3.
-  - Cathy sees the blind-play happen immediately after this red clue, so she knows that she must have the connecting red card, red 4.
-  - Cathy plays the red 4.
-- Note that ***Prompts* take precedence over *Finesses*!** Players should never blind-play a card if the situation can apply to the clued cards in their hand.
-- When a *Finesse* occurs, it causes temporary information desynchronization. (In the above example, if Bob did nothing, Cathy would go on to think that she had the red 3, but she really doesn't have the red 3, which means that information is not synced up throughout the team.)
-- For this reason, blind-playing a card into a *Finesse* is very important - by doing so, it resynchronizes all of the information. So, **if a player is *Finessed*, they should usually blind-play the card immediately**, even if they have other important cards to play or some good clue to give.
+- Na imagem acima:
+  - A mão de Alice não é importante, por isso não está à mostra.
+  - Bob não possui cartas tocadas em sua mão.
+  - Alice dá a dica de vermelho para Cathy, tocando um 4 vermelho. Essa deve ser uma *Dica de Jogar* no 4 vermelho.
+  - Bob vê que o 4 vermelho de Cathy não é jogável. Portanto, assumindo que Alice não está cometendo um erro, essa dica implica que alguém possui o 3 vermelho...
+  - Bob não vê um 3 vermelho tocado na mão de ninguém. Portanto, Alice deve estar prometendo à Bob que ele possui o 3 vermelho.
+  - Mas onde está o 3 vermelho? Bob sabe que essa é a convenção de *Finesse*, e que Alice portanto está prometendo que sua carta mais à esquerda ainda não tocada é o 3 vermelho.
+  - Bob joga cegamente sua carta na posição um, e é o 3 vermelho.
+  - Cathy vê essa jogada cega acontecendo imediatamente depois dessa dica de vermelho, e então sabe que ela deve ter a carta conectora, o 4 vermelho.
+  - Cathy joga o 4 vermelho.
+- Note que ***Prompts tomam precedência sobre *Finesses*!**. Jogadores nunca devem jogar uma carta cegamente se a situação pode se aplicar à uma carta já tocada em sua mão.
+- Quando uma *Finesse* ocorre, ela causa dessincronização temporária de informação. (No exemplo a seguir, se Bob não fizesse nada, Cathy iria continuar achando que ela possui o 3 vermelho, quando na verdade isso é falso. Isso significa que a informação não está sincronizada pelo grupo todo.)
+- Por essa razão, jogar uma carta cegamente em uma *Finesse* é muito importante. Ao fazer isso, a informação é ressincronizada. Então, **se um jogador está sendo alvo de uma *Finesse*, ele deve, geralmente, jogar a carta cegamente imediatamente**, mesmo se ele tiver outras cartas importantes para jogar ou outras dicas boas para dar.
 
 <img src="img/beginner/finesse2.png" height="300" />
 
-- We define the *Finesse Position* as the slot that a player's left-most unclued card is in. Notice that a player's *Finesse Position* can move around, and if it does, it is still possible to *Finesse* them.
-- In the above screenshot:
-  - Alice clues Cathy red, which touches two red cards on slot 1 and slot 2.
-  - Cathy assumes that the slot 1 card is red 1.
-  - Next, Bob clues Donald blue, which touches a blue 2.
-  - Cathy assumes that this is a *Finesse* and that she must have a blue 1.
-  - Now, it is Cathy's turn. Blind-playing the blue 1 is more important than playing the red 1.
-  - Normally, the *Finesse Position* would be the left-most card. However, since Cathy's slot 1 and slot 2 card are already clued, Cathy's *Finesse Position* card has shifted down to her slot 3. Thus, she must blind-play the blue 1 from slot 3.
+- Nós definimos a *Posição de Finesse* como a posição na mão de um jogador mais à esquerda que ainda não foi tocada por uma dica ou uma *Finesse*. Note que a *Posição de Finesse* pode mudar de lugar, e se ela o fizer, é ainda possível de dar uma *Finesse* no jogador.
+- Na imagem acima:
+  - Alice dá a dica de vermelho para Cathy, tocando duas cartas vermelhas, nas posições um e dois.
+  - Cathy assume que a carta na posição um de sua mão é o 1 vermelho.
+  - A seguir, Bob dá a dica de azul à Donald, tocando um 2 azul.
+  - Cathy assume que isso é uma *Finesse*, e que ela deve ter o 1 azul.
+  - Agora é o turno de Cathy. Jogar o 1 azul cegamente é mais importante do que jogar o 1 vermelho.
+  - Normalmente, a *Posição de Finesse* seria a carta mais à esquerda. No entanto, como a posição um e dois de Cathy já foram tocadas, a *Posição de Finesse* de Cathy foi realocada para a posição três de sua mão. Portanto, ela deve jogar o 1 azul na posição três cegamente.
 
 <br />
 

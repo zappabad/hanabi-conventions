@@ -1,185 +1,185 @@
-# Beginner's Guide for the Hyphen-ated Group
 
-- Are you looking to start playing Hanabi with the Hyphen-ated group? Fantastic - we are always looking to welcome new players. Take 15 minutes and go over this guide so that you can get up to speed with the basics.
-- Alternatively, are you looking to learn some solid fundamental strategies to use to play Hanabi with your own group of friends? Feel free to adopt these strategies.
-- Is a 15 minute briefing really necessary? Well, yes and no. If you try to play with our group and don't understand what basic clues mean, it is going to be analogous to a group of people trying to find each other in a dark room by running around with their arms flailing.
-- This guide assumes that you are already familiar with the basic rules of Hanabi. If you need to brush up on them, see [this written explanation of the rules](https://github.com/Zamiell/hanabi-live/blob/master/docs/RULES.md) or [watch this video explanation](https://www.youtube.com/watch?v=VrFCekQb4nY).
+# Guia do Iniciante para o Grupo Hyphen-ated
+
+- Você está procurando um lugar para começar a jogar Hanabi com o Grupo Hyphen-ated? Fantástico - estamos sempre procurando receber novos jogadores. Tome 15 minutos do seu tempo para compreender esse guia para que você possa ficar acostumado com os básicos.
+- Ou também, você está procurando aprender estratégias fundamentais sólidas para usar no seu próprio grupo de amigos no Hanabi? Sinta-se livre para adotar estas estratégias.
+- Um guia de 15 minutos é realmente necessário? Bem, sim e não. Se você tentar jogar com o nosso grupo e não entender o que dicas básicas significam, seria análogo a um grupo de pessoas tentando se encontrar em um cômodo escuro enquanto correm e balançam os braços que nem loucos.
+- Esse guia assume que você já é familiarizado com as regras básicas de Hanabi. Se você precisa se atualizar nelas, veja [esta explicação escrita das regras (em inglês)](https://github.com/Zamiell/hanabi-live/blob/master/docs/RULES.md) or [watch this video explanation](https://www.youtube.com/watch?v=VrFCekQb4nY).
 
 <br />
 
 ## Table of Contents
 
-1. [Card Layout](#card-layout)
-1. [The Basics](#the-basics)
-1. [Play Clues & Save Clues](#play-clues--save-clues)
-1. [The Three Main Principles](#the-three-main-principles)
-1. [Miscellaneous](#miscellaneous)
-1. [Special Moves](#special-moves)
-1. [How to Join Games](#how-to-join-games)
+1. [Disposição das cartas](#card-layout)
+1. [Os Básicos](#the-basics)
+1. [Dicas de Jogar & Dicas de Salvar](#play-clues--save-clues)
+1. [Os Três Princípios Básicos](#the-three-main-principles)
+1. [Outros Tópicos](#miscellaneous)
+1. [Jogadas Especiais](#special-moves)
+1. [Como Encontrar Jogos](#how-to-join-games)
 
 <br />
 
-## Card Layout
+## Disposição das Cartas
 
-In this guide, there will be some screenshots to show off the concepts introduced. Here's an example of a screenshot (using the default layout from [Hanab Live](https://hanab.live):
+Neste guia, haverão algumas imagens para ilustrar os conceitos introduzidos. Aqui está um exemplo de uma imagem (usando o layout padrão do [Hanab Live](https://hanab.live):
 
 <img src="img/beginner/screenshot.png" height="300" />
 
-- The five **play stacks** are on the left.
-- The **player hands** are on the right.
-- Alice is always player 1. (She will always go first.)
-- Bob is always player 2. (He will always go second.)
-- Cards are drawn and added to the left side to each hand. Thus, Alice's newest card is the blue 1 and Bob's newest card is the red 1.
-- Conversely, the oldest card is the right-most card. Alice's oldest card is the blue 5 and Bob's oldest card is the red 5.
-- A card's *slot* refers to its position in the hand. In the above screenshot, the blue 1 is on slot 1, the blue 2 is on slot 2, the blue 3 is on slot 3, and so forth. The red 1 is on slot 1, the red 2 is on slot 2, the red 3 is on slot 3, and so forth.
+- As cinco **pilhas de cartas** estão à esquerda.
+- As **mãos dos jogadores** estão à direita.
+- Alice é sempre a joagdora 1. (Ela sempre jogará primeiro.)
+- Bob é sempre o jogador 2. (Ele sempre irá segundo.)
+- Cartas compradas são adicionadas ao lado esquerdo de cada mão. Portanto, a carta mais nova de Alice é o 1 azul, e a de Bob o 1 vermelho.
+- Inversamente, a carta mais antiga é a mais à direita. A carta mais antiga de Alice é o 5 azul, e a de Bob o 5 vermelho.
+- A *posição* de uma carta se refere à onde ela está na mão de um jogador. Na imagem acima, o 1 azul é a posição um, o 2 azul a posição dois, o 3 azul a posição três, e assim vai. O 1 vermelho é a posição um, o 2 vermelho a posição dois, o 3 vermelho a posição três, e assim vai.
 
 <img src="img/beginner/screenshot2.png" height="300" />
 
-- When a card has one or more clues on it, a yellow border will appear around the card. The blue 1 and the red 1 will now have permanent yellow borders around them (until they are played or discarded).
-- The arrows indicate the specific cards that are "touched" by the last clue that was given.
+- Quando uma corta possui uma ou mais dicas em si, uma borda amarela aparecerá em volta da carta. O 1 azul e o 1 vermelho agora terão bordas amarelas permanentes neles (até que sejam jogados ou descartados).
+- As setas indicam as cartas que foram "tocadas" pela última dica dada.
 
 <br />
 
-## The Basics
+## Os Básicos
 
-### The Chop
+### O Chop
 
-- The right-most unclued card is called the "chop" card. (This is a metaphor of a card being "on the chopping block".)
-- When a player needs to discard, they should discard their chop card.
-- This way, everyone discards in a predicable way.
+- A carta mais à direita que não foi tocada por uma dica é chamada de "chop". (O nome vem de uma metáfora de estar "on the chopping block", isto é, estar prestes à "morrer".)
+- Quando um jogador precisa descartar, ele deve descartar seu chop.
+- Desta forma, todos os jogadores descartam de uma maneira previsível.
 
 <img src="img/beginner/chop.png" height="300" />
 
-- In the above screenshot:
-  - Alice's chop card is the red 5 (on slot 5).
-  - Bob's chop card is the red 3 (on slot 5).
+- Na imagem acima:
+  - O chop de Alice é o 5 vermelho (na posição 5).
+  - O chop de Bob é o 3 vermelho (na posição 5).
 
 <img src="img/beginner/chop2.png" height="300" />
 
-- In the above screenshot:
-  - Alice's chop card is the blue 4 (on slot 4).
-  - Bob's chop card is the blue 4 (on slot 2).
+- Na imagem acima:
+  - O chop de Alice é o 4 azul (na posição 4).
+  - O chop de Bob é o 4 azul (na posição 2).
 
 <br />
 
-### Single Card Focus
+### Foco em uma Única Carta
 
-- In some Hanabi groups, when a bunch of cards are clued, there is no consistent definition of what you should do.
-- In our group, we don't want there to be any guesswork - we all agree on a system that specifies **exactly** what a clue means so that everyone is always on the same page.
+- Em alguns grupos de Hanabi, quando várias cartas recebem dicas de uma só vez, não existe uma definição consistente do que se deve fazer.
+- No nosso grupo, nós não queremos que ninguém precise adivinhar nada - nós todos concordamos em usar um sistema que específica **exatamente** o que uma dica significa, para que todos do grupo estejam em harmonia ao comunicar algo com uma dica.
 
-#### The System
+#### O Sistema
 
-- If two or more cards are touched, then **the clue is only focused on a single card**. (Meaning that it is either a *Play Clue* or a *Save Clue* on the focused card only.)
-- **Nothing is implied about the non-focused cards** (beyond that they will be useful at some point later on).
-- So, how do you know which card is focused?
-  - The focus is always on the card that did not have any clues on it already. (We refer to this as the "brand new card introduced".)
-  - If there are multiple "new" cards, then:
-    - If the chop card is a "new" card, then the **focus is on the chop**.
-    - Otherwise, the **focus is on the left-most card**.
+- Se duas ou mais cartas são tocadas, então **a dica é focada em uma única carta**. (Ou seja, a dica é uma *Dica de Jogar* ou uma *Dica de Salvar* em apenas uma das cartas tocadas.)
+- **Nada deve ser presumido sobre as cartas que não são o foco de uma dica** (além de que elas serão úteis em algum momento no futuro).
+- Então, como saber qual é carta é o foco de uma dica?
+  - O foco é sempre na carta que não possuía nenhuma dica prévia nela. (Nos referimos à esta carta como "a carta que acabou de ser introduzida".)
+  - Se existem várias cartas que "foram introduzidas", então:
+    - Se o chop é a "carta nova", então **o foco é no chop**.
+    - Do contrário, **o foco é na carta mais à esquerda**.
 
-#### Example 1 - A Basic Clue
+#### Examplo 1 - Uma Dica Básica
 
 <img src="img/beginner/single_focus.png" height="150" />
 
-- If only one card is touched by a clue, then the clue is (obviously) talking about that one card.
-- In the above screenshot, Alice clues blue to Bob.
-- Thus, the focus of the clue is blue 1. This is a *Play Clue* on blue 1.
+- Se somente uma carta é tocada por uma dica, então a dica está (obviamente) falando sobre essa carta.
+- Na imagem acima, Alice dá a dica de azul para Bob.
+- Portanto, o foco da dica é o 1 azul. Está é uma *Dica de Jogar* no 1 azul.
 
-#### Example 2 - Left-most Focus
+#### Examplo 2 - Foco à esquerda
 
 <img src="img/beginner/single_focus2.png" height="150" />
 
-- In the above screenshot, Alice clues blue to Bob.
-- Before this clue, Bob's hand was completely unclued. So, with this clue, **two new cards were introduced** - the blue card on slot 2 and the blue card on slot 4.
-- Bob knows that in this situation, the focus of the clue is the left-most of the two new cards. Thus, similar to the last example, this is a *Play Clue* on blue 1.
-- Since the other blue card in his hand must be useful, Bob can reason that it is either blue 2, blue 3, blue 4, or blue 5. He will hold on to the card for later.
+- Na imagem acima, Alice dá a dica de azul para Bob.
+- Antes dessa dica, a mão de Bob estava sem nenhuma dica. Portanto, com essa dica, **duas novas cartas foram introduzidas** - a carta azul na posição dois, e a carta azul na posição quatro.
+- Bob sabe que, nessa situação, o foco da dica é na carta tocada mais à esquerda. Portanto, assim como no exemplo anterior, está uma uma *Dica de Jogar* no 1 azul.
+- Já que a outra carta azul na mão de Bob deve ser útil, Bob pode inferir que ela é ou o 2 azul, ou 3 azul, ou 4 azul ou 5 azul. Bob irá segurar essa carta para o futuro.
 
-#### Example 3 - Chop Focus
+#### Examplo 3 - Foco no chop
 
 <img src="img/beginner/single_focus3.png" height="150" />
 
-- In the above screenshot, Alice clues purple to Bob (on the first turn of the game).
-- Before this clue, Bob's hand was completely unclued. So, with this clue, **three new cards were introduced** - slot 1, slot 2, and slot 5.
-- Before this clue, Bob's chop was slot 5. So, since the clue touched his chop and *Chop Focus* has priority, this must be a *Chop Focus Play Clue* on purple 1. Bob should play the slot 5 card as purple 1.
+- Na imagem acima, Alice dá a dica de roxo para Bob (no primeiro turno do jogo).
+- Antes dessa dica, a mão de Bob estava completamente "no escuro" (sem dica alguma). Portanto, com essa dica, **três novas cartas foram introduzidas** - nas posição um, dois e cinco.
+- Antes dessa dica, o chop de Bob era na posição cinco. Portanto, já que essa dica tocou seu chop e o *Foco no Chop* possui prioridade, essa dica é uma *Dica de Jogar com Foco no Chop* no 1 roxo. Bob deve jogar sua carta na posição cinco como se ela fosse o 1 roxo.
 
 <br />
 
-## Play Clues & Save Clues
+## Dicas de Jogar & Dicas de Salvar
 
-- A clue can either be:
-  - a *Save Clue* (meaning to save the focused card for later)
-  - a *Play Clue* (meaning to play the focused card)
-- Let's go through each in turn.
+- Existem duas possibilidades para se interpretar uma dica:
+  - Uma *Dica de Salvar* (querendo dizer que deve-se salvar a carta foco da dica para o futuro).
+  - Uma *Dica de Jogar* (querendo dizer que deve-se jogar a carta foco).
+- Exploremos cada um desses dois casos.
 
 <br />
 
-### Save Clues
+### Dicas de Salvar
 
-- *Save Clues* **can only be given to cards on chop**. You can't give a *Save Clue* otherwise!
-  - So if a clue is focused on a card that is not on the chop, it must be a *Play Clue*.
-- The team **must save** the following cards (and are **only allowed** to save the following cards):
-  - All 5's
-  - Unique 2's (meaning that only one copy is currently visible)
-  - Critical cards (meaning that the other copy is discarded)
-- Sometimes, a *Chop Focus* clue could be either a *Save Clue* or a *Play Clue*. When this happens, the receiving player must consider both possibilities and hold on to the card until they know for sure.
-- The three kinds of *Save Clues* are listed below.
+- *Dicas de Salvar* **só podem ser dadas à cartas no chop**. Você não pode dar uma *Dica de Salvar* no contrário!
+  - Então, se uma dica é focada em uma carta que não está no chop, ela deve ser um *Dica de Jogar*.
+- O grupo **deve salvar** as cartas à seguir (e **só são permitidos** de salvar as cartas à seguir):
+  - Todos os 5's.
+  - 2's únicos (isto é, 2's que aparecem uma única vez nas cartas visíveis).
+  - Cartas críticas (isto é, cartas cuja outra cópia já foi descartada).
+- Uma dica com *Foco no Chop* pode ser interpretadas às vezes tanto como uma *Dica de Jogar* quanto uma *Dica de Salvar*. Quando esse for o caso, o jogador que recebeu a dica deve considerar ambas as possibilidades e segurar à carta até que tenha-se certeza sobre qual foi o intuito da dica.
+- Os três tipos de *Dicas de Salvar* estão listados abaixo.
 
-#### The 5 Save
+#### O salve de 5
 
 <img src="img/beginner/5_save.png" height="150" />
 
-- Since there is only one copy of each 5, all of the 5's need to be saved so that they won't be discarded.
-- In the above screenshot:
-  - Alice clues Bob number 5, which touches a single 5 on slot 5.
-  - Before this clue, Bob did not have any clued cards in his hand.
-  - Since the clue was focused on his chop, Bob knows that this must be a *5 Save* on the 5. It can be any 5 in the game.
-- 5's must be saved with a number clue instead of a color clue. (Otherwise, it will look like a *Play Clue*!)
+- Já que só existe uma única cópia de cada 5, todos os 5's devem ser salvos para que eles não sejam descartados.
+- Na imagem acima:
+  - Alice dá a dica de 5 para Bob, que toca um único 5 na posição cinco.
+  - Antes dessa dica, a mão de Bob estava "no escuro" (sem nenhuma dica).
+  - Já que a dica foi focada em seu chop, Bob sabe que isso deve ser um *Salve o 5* em seu 5, e não pode inferir nenhuma informação adicional sobre a cor de seu 5.
+- 5's devem ser salvos com uma dica de número ao invés de uma dica de cor. (Do contrário, a dica parecerá uma *Dica de Jogar*!)  
 
-#### The 2 Save
+#### O salve de 2
 
 <img src="img/beginner/2_save.png" height="150" />
 
-- Even though there are two copies of each 2, we agree that they are so important that we must save them in a manner similar to 5's.
-- In the above screenshot:
-  - Alice clues Bob number 2, which touches a 2 on slot 3 and slot 5.
-  - Before this clue, Bob did not have any clued cards in his hand.
-  - Since the clue was focused on his chop, Bob knows that this must be a *2 Save* on the 2. It can be any 2 in the game.
-- Similar to 5's, 2's must be saved with a number clue instead of a color clue.
-- You can think of the *2 Save* as a last resort to save a 2. Thus, players are not allowed to perform a *2 Save* on a 2 if that same 2 is visible in someone else's hand (because the team does not actually need to save that 2 quite yet - they can *2 Save* it when the other copy reaches the chop).
+- Por mais que existam duas cópias de cada 2, nós concordamos que eles são tão importantes que precisamos salvá-los de maneira similar ao salve de 5.
+- Na imagem acima:
+  - Alice dá a dica de 2 para Bob, que toca um 2 na posição três e na posição cinco.
+  - Antes dessa dica, a mão de Bob estava "no escuro" (sem nenhuma dica).
+  - Já que a dica é focada em seu chop, Bob sabe que essa deve ser um *salve de 2* em seu 2, e não pode inferir nenhuma informação adicional sobre a cor de seu 2.
+- Você pode imaginar o *salve de 2* como um último recurso para salvar um 2. Portanto, jogadores não são permitidos de fazer um *salve de 2* caso outro 2 da mesma cor esteja visível na mão de outro jogador (porque, nesse caso, o grupo não precisa, de fato, salvar o 2 ainda - eles podem dar um *salve de 2* quando o outro 2 chegar no chop).
 
-##### The Critical Save
+##### O salve Crítico
 
 <img src="img/beginner/critical_save.png" height="250" />
 
-- For the same reason that 5's need to be saved, critical cards also need to be saved. (Critical cards are defined as cards that have the other copy discarded.)
-- Players can choose to save critical cards with either a color clue **or** a number clue.
-  - Note that this even applies to 2's in the rare case that a copy of that 2 ends up in the discard pile.
-- In the above screenshot:
-  - The current discard pile is shown to the right of the hands.
-  - Alice clues Bob yellow, which touches a card on slot 4.
-  - Before this clue, the only clued card in Bob's hand was the 5 on slot 5.
-  - This could be a *Play Clue* on the yellow 2. However, since the clue was focused on his chop, this could also be a *Save Clue*.
-  - Bob looks through the discard pile and finds that there is a yellow 4 there. Thus, this could be a *Save Clue* on the yellow 4. So, Bob knows that for now, he has to hold on to the card.
-  - Bob marks the card as either a yellow 2 or a yellow 4, so that he can keep track of it for later. Then, he discards.
+- Pelo mesmo motivo que todos os 5's devem ser salvos, cartas críticas também devem ser salvas. (Cartas críticas são aquelas cuja outra cópia já foi descartada.)
+- Jogadores podem escolher salvar cartas críticas tanto quanto uma dica de cor **ou** de número.
+  - Note que isso também se aplica a números 2, no raro caso em que a outra cópia daquele 2 ter sido descartada.
+- Na imagem acima:
+  - A pilha de descartas atual é mostrada à direita das mãos.
+  - Alice dá a dica de amarelo para Bob, que toca em uma carta na posição quatro.
+  - Antes dessa dica, a única carta tocada na mão de Bob era seu 5 na posição cinco.
+  - Essa pode ser uma *Dica de Jogar* no 2 amarelo. No entanto, já que a dica foi focada em seu chop, ela também pode ser um *Dica de Salvar*.
+  - Bob olha a pilha de descarte e percebe que existe um 4 amarelo lá. Portanto, ela pode ser um *Dica de Salvar* no 4 amarelo. Portanto, Bob sabe que, por enquanto, ele deve segurar essa carta.
+  - Bob marca a carta em sua mão como sendo ou um 2 amarelo ou um 4 amarelo, para que ele possa se orientar no futuro. Então, Bob descarta seu novo chop.
 
 <br />
 
-### Play Clues
+### Dicas de Jogar
 
-- We are very strict with what we clue - we don't just randomly clue cards in the hand.
-- So if a card is touched as the focus of the clue and it is not on chop, then that card must be playable!
-- Alternatively, if a chop-focus *Save Clue* is given to a card that does not meet the above saving criteria, then it is not a *Save Clue* at all, and must be a *Play Clue*!
+- Nós somos bem restritos com o que damos dicas - nós não simplesmente damos uma dica na mão de um jogador.
+- Então, se uma carta é tocada como o foco de uma dica e não está no chop, ela deve ser uma carta jogável!
+- Alternativamente, se uma *Dica de Salvar* focada no chop é dada à uma carta que não atende aos critérios de salve acima, então ela não é uma *Dica de Salvar*, e deve ser, portanto, uma *Dica de Jogar*!
 
-#### Delayed Play Clues
+#### Dicas de Jogar Atrasado
 
-- When you receive a *Play Clue*, it does not necessarily mean that you can play that card immediately. Look around the table for **other clued cards that might be related** to the card that you got the *Play Clue* on. If there are any, you must wait for them to be played.
-- For example:
-  - Red 1 is played on the stacks.
-  - Cathy has a clued blue 1 and a clued green 1 in her hand. (They were clued with a number 1 clue earlier on, so Cathy will go on to play both of these cards on her future turns.)
-  - Alice clues Bob number 2, touching a new 2 on his slot 1 as a *Play Clue*.
-  - **Bob must wait for Cathy to play all of his 1's first** before trying to play his 2.
-  - In other words, even though Bob could have the red 2, and the red 2 is playable on this turn, it is also possible that Bob has the blue 2 or the green 2, so he has to account for those possibilities and wait patiently.
-- In short, players should **treat all *Play Clues* as potential *Delayed Play Clues***.
+- Quando você recebe uma *Dica de Jogar*, ela não necessariamente significa que você pode jogar aquela carta imediatamente. Olhe para as **outras cartas tocadas que podem estar relacionadas** à carta foco da *Dica de Jogar* que você recebeu. Se existem cartas desse tipo, então você deve esperar para que elas sejam jogadas.
+- Por exemplo:
+  - O 1 vermelho está na pilha de cartas jogadas.
+  - Cathy possui um 1 azul e um 1 verde tocados em sua mão. (Eles foram tocados por uma dica de número 1 dada mais cedo, então Cathy irá jogar ambas as cartas em seus turnos futuros.)
+  - Alice dá a dica de 2 para Bob, tocando um novo 2 na posição um como uma *Dica de Jogar*.
+  - **Bob deve esperar que Cathy jogue todos os seus números 1's** antes de tentar jogar seu 2.
+  - Em outras palavras, mesmo que Bob possa ter o 2 vermelho, e o 2 vermelho seja jogável nesse turno, também é possível que Bob possua o 2 azul ou o 2 verde, então ele deve pensar em todas essas possibilidades e esperar pacientemente.
+  - Em suma, jogadores devem **tratar todas as *Dicas de Jogar* como potenciais *Dicas de Jogar Atrasado***.
 
 <br />
 

@@ -183,151 +183,151 @@ Neste guia, haverão algumas imagens para ilustrar os conceitos introduzidos. Aq
 
 <br />
 
-### Clue Logic Flowchart
+### Diagrama de Lógica de Dicas
 
-- For reference, this is [a basic logic flowchart](https://raw.githubusercontent.com/Zamiell/hanabi-conventions/master/img/flowcharts/clue_flowchart.png) that describes the general interpretation of a clue.
+- Para referência rápida, esse é um [diagrama de lógica básica (em inglês)](https://raw.githubusercontent.com/Zamiell/hanabi-conventions/master/img/flowcharts/clue_flowchart.png) que descreve a interpretação de uma dica em geral.
 
 <br />
 
-## The Three Main Principles
+## Os Três Princípios Básicos
 
-- So far, we have covered:
-  - how to discard (e.g. the chop)
-  - how to tell what the focus of a clue is (e.g. *Chop Focus* or left-most)
-  - how to tell what a clue means (e.g. a *Play Clue* or a *Save Clue*)
-- But that doesn't really tell you much about the *strategy* involved to play the game. How do players find the best move for a certain situation?
-- Hanabi is very complicated, so it is impossible to write a guide on how to best solve each individual situation. (And that's a good thing, because the game continues to be interesting to play, even after thousands of games!)
-- Luckily, beginners can focus on internalizing just **three main principles**. Nearly all of the special moves and strategies naturally flow from these principles.
+- Até então, nós vimos:
+  - como se descartar (isto é, sempre o chop)
+  - como saber qual o foco de uma dica (isto é, *Foco no Chop* ou à esquerda)
+  - como saber o que uma dica significa (isto é, uma *Dica de Jogar* ou uma *Dica de Salvar*)
+- Mas isso ainda não nos diz muito sobre a *estratégia* envolvida para se jogar o jogo. Como cada jogador pode encontrar a melhor jogada para uma situação específica?
+- Hanabi é extremamente complicado, então é impossível escrever um guia de como se resolver de maneira ótima cada situação individual. (E isso é uma coisa boa, porque assim o jogo continua sendo interessante de se jogar, mesmo depois de milhares de jogos!)
+- Felizmente, iniciantes podem focar em internalizar somente **três princípios básicos**. Quase todas as jogadas especiais e estratégias naturalmente seguem desses princípios.
 
-### 1 - Good Touch Principle
+### 1 - Princípio do Bom Toque
 
-- When clues are given, we say that they "touch" cards. (On Hanab Live, cards that are touched by one or more clues are given a special border.)
-- When cluing cards, we follow *Good Touch Principle* - this means that **we only want to touch cards that will eventually be played**. So, if someone touches a card that is already played on the stacks or a card that is already clued in someone else's hand, then that would be a *Bad Touch*.
-- *Good Touch Principle* is a powerful building block for logic and reasoning. If everyone only touches good cards, then players can greatly narrow down the possibilities for all of the clued cards in their hand!
+- Quando dicas são dadas, dizemos que elas "tocam" cartas. (No Hanab Live, cartas que são tocadas por uma ou mais dicas recebem uma borda amarela especial.)
+- Ao se dar dicas, nós seguimos o *Princípio do Bom Toque* - isso significa que **nós só queremos tocar cartas que serão eventualmente jogadas**. Então, se alguém toca uma carta que já foi jogada ou que já foi tocada na mão de algum jogador, então esse seria um *Toque Ruim*.
+- O *Princípio do Bom Toque* é um alicerce poderoso para lógica e inferência. Se todos tocarem somente cartas boas, então os jogadores podem diminuir bastante as possibilidades de todas as cartas tocadas em suas mãos!
 
 <img src="img/beginner/good_touch_principle.png" height="300" />
 
-- In the above screenshot:
-  - Alice wants to give a *Play Clue* to the yellow 2.
-  - Alice has a choice between cluing yellow and cluing number 2.
-  - If she clues number 2, it would uniquely touch the yellow 2 on slot 1.
-  - If she clues yellow, then it would touch slot 1, slot 2, and slot 3. This clue would violate *Good Touch Principle*, as the yellow 4's would be duplicated in Bob's hand.
-  - Thus, the correct clue for Alice to give is number 2.
+- Na imagem acima:
+  - Alice quer dar uma *Dica de Jogar* no 2 amarelo.
+  - Alice tem uma escolha entre dar a dica de amarelo ou de número 2.
+  - Se ela der a dica de 2, a dica irá tocar somente o 2 amarelo na posição um.
+  - Se ela der a dica de amarelo, então ela tocaria a posição um, dois e três. Essa dica violaria o *Princípio do Bom Toque*, já que o 4 amarelo ficaria duplamente tocado (já que um deles já está tocado na mão de Bob).
+  - Portanto, a dica correta de Alice dar é a de número 2.
 
 <img src="img/beginner/good_touch_principle2.png" height="300" />
 
-- In the above screenshot:
-  - Alice has an unknown purple card in her hand.
-  - Bob's hand is not important, so it is blacked out.
-  - Alice can see that the purple stack is played up to purple 4. The only other useful purple card left is the purple 5.
-  - Alice also knows that according to *Good Touch Principle*, every clued card will be eventually be played.
-  - Thus, by process of elimination, she can reason that the unknown purple card in her hand must be purple 5, and she can immediately play it.
-
+- Na imagem acima:
+  - Alice possui uma carta roxa desconhecida (de número) em sua mão.
+  - A mão de Bob não é importante, por isso não está à mostra.
+  - Alice pode ver que a pilha roxa está jogada até o 4 roxo. A única carta roxa útil, portanto, é o 5 roxo.
+  - Alice também sabe que, de acordo com o *Princípio do Bom Toque*, cada carta tocada será eventualmente jogada.
+  - Portanto, por processo de eliminação, ela pode inferir que a carta roxa desconhecida em sua mão deve ser o 5 roxo, e ela pode jogá-lo imediatamente.
+  
 <img src="img/beginner/good_touch_principle3.png" height="300" />
 
-- In the above screenshot:
-  - In the middle of the game, Alice gives Bob a yellow clue that touches slots 2 and 3.
-  - The focus of the clue is on slot 2. This must be a *Play Clue*, so Bob marks his slot 2 card as a yellow 2.
-  - Slot 3 was also touched by the clue, but it was not the focus. But just because it was not the focus does not mean that it can just be any yellow card. From *Good Touch Principle*, Bob knows that it must be playable in the future. (In other words, if the slot 3 card was a yellow 1 or yellow 2, then Alice's clue would be a *Bad Touch*.)
-  - Therefore, Bob marks his slot 3 card as either yellow 3, yellow 4, or yellow 5.
+- Na imagem acima:
+  - No meio do jogo, Alice dá a dica de amarelo para Bob que tocam cartas nas posições dois e três.
+  - O foco da dica é na posição dois. Essa dica deve ser uma *Dica de Jogar*, portanto Bob marca sua carta na posição dois como sendo um 2 amarelo.
+  - A posição três também foi tocada pela dica, mas não foi o foco. Mas só porque não foi o foco, isso não significa que ela pode ser qualquer carta amarela. Pelo *Princípio do Bom Toque*, Bob sabe que ela deve ser uma carta jogável no futuro. (Em outras palavras, se a carta da posição três for o 1 amarelo ou 2 amarelo, então a dica de Alice seria um *Toque Ruim*.)
+  - Portanto, Bob marca sua carta na posição três como sendo ou um 3 amarelo, ou 4 amarelo, ou 5 amarelo.
 
-### 2 - Save Principle
+### 2 - Princípio de Salve
 
-- The *Save Clue* section above explains that the team must save certain types of cards.
-- But above and beyond this, we also agree that we must "get" all of the playable cards. In order words, **we don't let each other discard playable cards!**
-- So, the **full list** of what the team **must not let get discarded** is the following:
-  - All 5's
-  - Unique 2's (meaning that only one copy is currently visible)
-  - Critical cards (meaning that the other copy is discarded)
-  - Unique playable cards (meaning that only one copy is currently visible)
-- This is called *Save Principle* and **it is the most important principle of them all**. You are allowed to **break any other principle or rule** in order to prevent a card in this list from being discarded! In fact, often times you will have to violate *Good Touch Principle* in order to save a specific card, and this is okay.
+- A seção de *Dicas de Salvar* acima explica quando um time deve salvar certos tipos de cartas.
+- Mas além disso, nós também concordamos que precisamos "pegar" todas as cartas jogáveis. Em outras palavras, **nós não deixamos o grupo descartar cartas jogáveis!**
+- Portanto, a **lista completa** do que um grupo **não pode deixar ser descartado** é a seguinte:
+  - Todos os 5's.
+  - 2's únicos (isto é, aqueles cuja somente uma única cópia é visível nas mãos dos jogadores).
+  - Cartas críticas (isto é, cartas cujas outras cópias já foram descartadas).
+  - Cartas únicas jogáveis (isto é, aquelas cuja somente uma única cópia  é visível nas mãos dos jogadores).
+- Isso é chamado do *Princípio de Salve* e **é o princípio mais importante de todos**. Você **pode quebrar qualquer outro princípio ou dica** para impedir que uma das cartas dessa lista seja descartada! Inclusive, muitas vezes vocês vai precisar violar o *Princípio do Bom Toque* para salvar uma carta específica, e não há nada de errado nisso.
 
-### 3 - Minimum Clue Value Principle (and *Tempo Clues*)
+### 3 - Princípio do Valor Mínimo de Dica (e *Dicas de Tempo*)
 
-- Usually, players only discard when they have nothing to do. But don't take this the wrong way.
-- In order to avoid discarding, you are *not allowed* to just clue any card. You are only allowed to give *Save Clues* to the specific cards outlined in the *Save Principle* section. And you are only allowed to give *Play Clues* to actual playable cards.
-- Furthermore, you might be tempted to **clue a card again that already has a clue on it** in order to make it play right now. We call this kind of clue a *Tempo Clue*. A *Tempo Clue* is simply a *Play Clue* that does not "get" any brand new cards.
-- *Tempo Clues* are quite inefficient (as the team is using two clues to get one card). Since *Tempo Clues* are so bad, we say that players are **only allowed to perform *Tempo Clues* in certain special situations**, like when a player is forced to give a clue. (The *Early Game* does not count as a special situation where you are allowed to give a *Tempo Clue* though.)
-- So, if your only option is between giving a *Tempo Clue* and discarding, then **you must discard**.
-- We formally express this concept as *Minimum Clue Value Principle*: **all clues must get at least one previously unclued card saved or played**. In other words, as a group, we hold ourselves to a high standard, and we don't give inefficient clues.
-
-<br />
-
-## Miscellaneous
-
-### The Early Game
-
-- We define the *Early Game* as the period of time before someone discards for the first time. When they do, they initiate the *Mid-Game*.
-- The general goal of the *Early Game* is to extend it for as long as reasonably possible. Thus, everyone agrees that they **must** "extinguish" all of the available *Play Clues* and *Save Clues* before discarding. (There are no cards in the discard pile yet, but *Save Clues* still need to be given to all of the 5's on chop and all of the 2's on chop that are not present in someone else's hand.)
-- In the *Early Game*, you can do a special move called a *5 Stall*; see below.
-
-### The 5 Stall (Cluing Off-Chop 5's)
-
-- Normally, you are only allowed to give a *Save Clue* to a 5 if it is on chop. So if you use number 5 to clue a 5 that is **not** on chop, then it will typically look like a *Play Clue* on that 5 (or some other advanced strategy).
-- As a special rule, in the *Early Game*, you **are** allowed to clue number 5 as a *Save Clue* to off-chop 5's. Doing this is just interpreted as a "stall" clue and that you are trying to extend the *Early Game* for a little bit longer.
-- However, you are **only** allowed to do this if there is nothing else to do, meaning that all of the "normal" *Play Clues* and *Save Clues* have been extinguished.
-- Normally, a *5 Stall* is only done in the *Early Game*. However, you might see someone give a *5 Stall* in the *Mid-Game* if they are in a special situation where they are not allowed to discard.
-
-### Other General Strategy
-
-- In general, the first thing you should do on your turn is to **look at the chop cards of everyone on the team**. Are there any cards on chop that need to be saved (or *Play Clued*)? If so, do you have to do it, or can someone else do it?
-  - If no-one else can do it, then you need to give the *Save Clue* (or *Play Clue*), even if you have a card to play.
-  - If someone else can do it, would it be better for you to save the card, or for them? If they have a card to play and you do not have a card to play, then it is better teamwork for you to save the card.
-- In general, ***Play Clues* should be given over *Save Clues***. There's no need to give a *Save Clue* to someone if you can preoccupy them with playing a card!
-- In general, if you have a choice, **color clues should be given over number clues**. Color clues are usually more specific, telling the player the exact identity of the card. (But of course, don't be afraid to use number clues if it helps to "fill in" other cards in the hand.)
-- In general, **don't be afraid of discarding**. If you discard something important, it won't be your fault - it is your teammates' responsibility to save any important cards.
+- Normalmente, jogadores só descartam caso não tenham nada para fazer. Mas não interprete isso de forma errada.
+- Para evitar descartar, você *não pode* simplesmente dar dica de qualquer carta. Você só pode dar *Dicas de Salvar* para as cartas específicas da lista dada na seção do *Princípio do Salve*. E você só pode dar *Dicas de Jogar* para cartas que sejam, de fato, jogáveis.
+- Além disso, você pode querer **dar dica em uma carta que já foi tocada** para que o jogador jogue-a agora. Nós chamamos essas dicas de *Dicas de Tempo*. Uma *Dica de Tempo* é, simplesmente, uma *Dica de Jogar* quie não "pega" nenhuma carta nova.
+- *Dicas de Tempo* são bastante ineficientes (já que o grupo usa duas dicas para se jogar somente uma única carta). Já que *Dicas de Tempo* são tão ruins, nós dizemos que os jogadores **só são permitidos de dar uma *Dica de Tempo* em algumas situações especiais**, como, por exemplo, quando um jogador é forçado a dar uma dica. (O *Início do Jogo*, porém, não conta como uma dessas situações especiais em que você pode dar uma *Dica de Tempo*.)
+- Então, se a sua única opção é de dar uma *Dica de Tempo* ou descartar, então **você deve descartar**.
+- Nós, formalmente, expressamos esse conceito como o *Princípio do Valor Mínimo de Dica*: **todas as dicas devem fazer com que uma carta não-tocada seja salvada ou jogada**. Em outras palavras, como um grupo, nós temos um padrão alto, e não damos dicas ineficientes.
 
 <br />
 
-## Special Moves
+## Outros Tópicos
 
-- Hanabi is a game of trying to be as efficient as possible, since there is a limited number of clues.
-- Thus, it is ideal to get **two** or more cards to play from **one** clue.
-- Players can use two special "moves" to do this: *Prompts* and *Finesses*.
+### O Início do Jogo
+
+- Nós definimos o *Início do Jogo* como o período de tempo antes de alguém descartar uma carta pela primeira vez. Quando isso acontece, é iniciado o *Meio do Jogo*.
+- O objetivo geral do *Início do Jogo* é ser extendido o máximo possível. Portanto, todos concordam que eles **devem** "extinguir" todas as *Dicas de Jogar* e *Dicas de Salvar* antes de se descartar algo. (Não existem cartas na pilha de descarte ainda, mas *Dicas de Salvar* ainda precisam ser dadas para todos os 5's no chop e todos os 2's no chop que não aparecem na mão de outros jogadores.)
+- No *Início do Jogo*, você pode dar uma dica especial chamada *5 Lento*; veja abaixo.
+
+### O 5 Lento (Salve de 5's fora de chop)
+
+- Normalmente, você só pode dar uma *Dica de Salvar* para um 5 se ele estiver no chop. Então se você usar uma dica de número 5 para um 5 que **não** é o chop, então ela iria, normalmente, ser interpretada como uma *Dica de Jogar* naquele 5 (ou alguma outra estratégia avançada).
+- Como uma dica especial, no *Início do Jogo*, você **pode** dar uma dica de número 5 como uma *Dica de Salvar* para 5's fora de chop. Fazer isso deve ser interpretado como uma dica "lenta". Isto é, que você está somente tentando extender o *Início do Jogo* um pouco mais.
+- Porém, você **só** pode fazer isso caso não haja nenhuma outra ação para se fazer. Isto é, caso todas as outras *Dicas de Jogar* e *Dicas de Salvar* "normais" já tiverem sido dadas.
+- Normalmente, um *5 Lento* só é feito no *Início do Jogo*. Porém, você ver alguém dar uma dica de *5 Lento* no *Meio do Jogo* caso haja alguma situação especial na qual eles não podem descartar.
+
+### Outras Estratégias Gerais
+
+- Em geral, a primeira coisa que você deve fazer no seu turno é **olhar o chop de todos do grupo**. Existe alguma carta que no chop que precisa ser salvada (ou jogada)? Se sim, precisa ser você que dá essa dica, ou pode ser outra pessoa?
+  - Caso ninguém mais possa dar essa dica, então você deve dar a *Dica de Salvar* (ou *Dica de Jogar*), mesmo se você possui uma carta que pode ser jogada.
+  - Se outra pessoa pode dar essa dica, seria melhor para você salvar a carta, ou eles? Se eles possuem uma carta para jogar e você não, então é melhor que você o faça!
+- Em geral ***Dicas de Jogar* devem ser dadas prioritariamente à *Dicas de Salvar***. Não há nenhuma necessidade de dar *Dicas de Salvar* para alguém se você pode ocupar o turno deles dando uma *Dica de Jogar* para eles!
+- Em geral, se é possível se escolher, **dicas de cor devem ser dadas prioritariamente à dicas de número**. Dicas de cor são, geralmente, mais específicas, mostrando exatamente a identidade da carta para o jogador. (Mas, é claro, não tenha medo de dar dicas de número caso isso ajude a "preencher" outras cartas na mão do jogaor.)
+- Em geral, **não tenha medo de descartar**. Se você descartar algo importante, não será sua culpa - é de responsabilidade do seu time salvar quaisquer cartas importantes.
 
 <br />
 
-### The Prompt
+## Jogadas Especiais
+
+- Hanabi é um jogo em que é importante ser o mais eficiente possível, já que existem um número limitado de dicas.
+- Poratnto, é ideal de se "pegar" **duas** ou mais cartas por meio de **uma** única dica.
+- Jogadores podem usar duas "jogadas especiais" para fazer isso: *Prompts* e *Finesses*.
+
+<br />
+
+### O Prompt
 
 <img src="img/beginner/prompt.png" height="300" />
 
-- In the above screenshot:
-  - Alice's hand is blacked out because it does not matter.
-  - Bob has a clued red card in his hand, but the full identity of the card is still unknown to him. In this situation, he knows he is supposed to just keep the card in his hand and continue to discard unclued cards.
-  - Alice clues red to Cathy, which touches a red 4. This must be a *Play Clue* on the red 4.
-  - Bob sees that red 4 is currently unplayable, since the red 3 is not played yet. Thus, this clue implies that someone has the red 3.
-  - Bob does not see a red 3 clued in anyone else's hand. So, Alice must be promising him that his unknown red card is red 3 and that he can safely play it.
-- In this way, clues can deliver messages to an entirely different player than the person who actually received the clue.
-- We call this move a *Prompt* because it is "prompting" a player to play a card that they would have otherwise held on to for a while longer.
+- Na imagem acima:
+  - A mão de Alice não é importante, por isso não está à mostra.
+  - Bob possui uma dica de vermelho em sua mão, mas a identidade completa dessa carta ainda não é clara para ele. Nessa situação, ele sabe que deve somente manter a carta em sua mão e continuar descartando seu chop.
+  - Alice dá a dica de vermelho para Cathy, que toca um 4 vermelho. A dica deve ser uma *dica de Jogar* no 4 vermelho.
+  - Bob vê que o 4 vermelho não é jogável agora, já que o 3 vermelho ainda não foi jogado. Portanto, essa dica implica que alguém possui o 3 vermelho.
+  - Bob não vê um 3 vermelho tocado na mão de nenhum outro jogador. Então, Alice deve estar prometendo à ele que a carta vermelha desconhecida em sua mão é o 3 vermelho, e que ele pode jogá-lo.
+- Dessa forma, dicas podem dar mensagens para um outro jogador que nem recebeu a dica.
+- Nós chamamos essa jogada de um *Prompt* porque ela está "indicando" que um jogador pode jogar uma carta que ele, normalmente, seguraria por mais tempo.
 
 <img src="img/beginner/prompt2.png" height="300" />
 
-- If a player is *Prompted* and there are multiple cards in the hand that the *Prompt* could apply to, they should play the left-most.
-- In the above screenshot:
-  - Bob is *Prompted* for a red 3 in the exact same way as the previous example.
-  - Bob has two different cards clued as red in slot 2 and slot 3.
-  - Since both cards are unknown to Bob, Bob should choose to play the slot 2 card since it is the left-most.
+- Se um jogador recebe um *Prompt* e existem múltiplas cartas em sua mão que o *Prompt* poderia estar indicando, eles devem jogar a carta mais à esquerda.
+- Na imagem acima:
+  - Bob recebe o *Prompt* de um 3 vermelho da mesma forma que no exemplo anterior.
+  - Bob possui duas cartas diferentes com dicas de vermelho em sua mão, nas posições dois e três.
+  - Já que ambas as cartas são desconhecidas à Bob, Bob deve jogar a carta da posição dois, já que ela é a mais à esquerda.
 
 <img src="img/beginner/prompt3.png" height="300" />
 
-- In the above screenshot:
-  - Bob has an unknown 3 in his hand.
-  - Alice clues number 4 to Bob, which touches a 4. It must be a *Play Clue* on the 4.
-  - There is no 4 that could possibly be playable right now. Thus, this must be a *Self-Prompt*, meaning that Bob's 3 must be either blue 3 or green 3.
-  - Bob plays his 3, and it is blue 3. Thus, he knows that the 4 must match and be a blue 4.
+- Na imagem acima:
+  - Bob possui um 3 desconhecido em sua mão.
+  - Alice dá a dica de 4 para Bob, que toca um único 4. Ela deve ser uma *Dica de Jogar* no 4.
+  - Não existe nenhum 4 possivelmente jogável nesse momento do jogo. Portanto, isso deve ser um *Prompt Interno*, significando que o 3 de Bob é azul ou verde.
+  - Bob joga seu 3, e descobre que é o 3 azul. Portanto, ele agora sabe o 4 deve também ser azul.
 
 <img src="img/beginner/prompt4.png" height="300" />
 
-- The *Prompt* is a **promise** that the player has the connecting card. Therefore, if the left-most card is not the correct one, the player should continue to play his clued cards (left to right) until the expected card is found. (It is of course the responsibility of the player giving the clue to ensure that all those previous cards will play successfully.)
-- In the above screenshot:
-  - Bob has three separate unknown 3's in his hand.
-  - Alice clues red to Cathy, which touches the red 4. This is a *Play Clue* on the red 4.
-  - Bob sees that it is not playable and concludes that this is a *Prompt* and he must have the red 3. Bob plays his left-most 3 from slot 2.
-  - However, after playing it, Bob sees that it is not the red 3 - it was the blue 3 (which played successfully). Bob now knows that the next-left-most 3 must be the red 3 (on slot 3).
-  - Cathy can see the touched red 3 in Bob's hand and knows from the *Good Touch Principle* that her red card must be the 4. She does something unrelated.
-  - On his next turn, Bob tries to play his slot 3 card as red 3. However, after playing it, Bob sees that it was not the red 3 - it was the green 3 (which played successfully). Bob now knows that his final 3 must be red 3 (on slot 4).
-  - On his next turn, Bob plays his slot 4 card, and it is red 3.
-  - Cathy can now finally play her red 4.
+- O *Prompt* é uma **promessa** de que o jogador possui a carta que conecta. Portanto, se a mais à esquerda não é a correta, o jogador deve continuar a jogar suas cartas que possuem dicas (da esquerda para a direita) até que a carta esperada seja encontrada. (É, obviamente, responsabilidade do jogador que dá a dica de garantir que todas as cartas anteriores à carta correta possam ser jogadas com sucesso.)
+- Na imagem acima:
+  Bob possui três 3's desconhecidos em sua mão.
+  - Alice dá a dica de vermelho para Cathy, que toca um 4 vermelho. Isso é uma *Dica de Jogar* no 4 vermelho.
+  - Bob vê que ela não é uma carta jogável e conclui que isso deve ser um *Prompt* para ele, e que ele deve ter o 3 vermelho. Bob joga seu 3 mais à esquerda, da posição dois.
+  - Porém, depois de jogá-lo, Bob vê que ele não é o 3 vermelho - é o 3 azul (que foi jogado ccom sucesso). Bob agora sabe que o próximo 3 à esquerda deve ser o 3 vermelho (na posição três).
+  - Cathy pode ver o 3 vermelho tocado na mão de Bob e sabe, pelo *Princípio do Bom Toque* que sua carta vermelha deve ser o 4. Ela faz uma jogada não relevante ao exemplo.
+  - Em seu próximo turno, Bob tenta jogar sua carta na posição três como o 3 vermelho. Porém, após jogá-lo, Bob vê que ele não é o 3 vermelho - é o 3 verde (que foi jogado com sucesso). Bob agora sabe que seu 3 restante deve ser o 3 vermelho (na posição quatro).
+  - Em seu próximo turno, Bob joga sua carta na posição quatro, e é o 3 vermelho.
+  - Cathy pode, agora, finalmente jogar seu 4 vermelho.
 
 <br />
 
